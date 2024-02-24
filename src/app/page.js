@@ -98,9 +98,9 @@ export default function Home() {
               role="alert"
             >
               💡💡{" "}
-              <Link href={"/how-to-download-Youtube-video"}>
-                How to download Youtube Video
-              </Link>
+              <a  target="_blank" href={"https://youtube-video-downloader51.vercel.app"}>
+                Download Youtbe Video
+              </a>
             </div>
           </form>
         </div>
@@ -188,7 +188,7 @@ export default function Home() {
 
 <h1 class="text-3xl font-bold mb-4">YouTube Thumbnail Downloader</h1>
 
-<p class="mb-4">Save YT Video Thumbnails</p>
+<p class="mb-4">Save YouTube Video Thumbnails</p>
 <p class="mb-4">Get free thumbnail image of any YouTube videos in Full HD(1080), HD (720), SD, and also in small size. it's currently supported formats: YouTube (HD, HQ, 1080p, 4K) videos</p>
 
 <h2 class="text-xl font-semibold mb-2">What is the use of this YouTube Thumbnail Downloader website?</h2>

@@ -7,7 +7,7 @@ const page = () => {
 
 <h1 class="text-3xl font-bold mb-4">Privacy Policy</h1>
 
-<p class="mb-6">At YoutubeThumbnailDownloader.com, accessible from https://www.youtubethumbnaildownloader.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by YoutubeThumbnailDownloader.com and how we use it.</p>
+<p class="mb-6">At YoutubeThumbnailDownloader.com, accessible from https://www.youtube-thumbnail-download-er.vercel.app/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by YoutubeThumbnailDownloader.com and how we use it.</p>
 
 <p class="mb-4">If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at relnoorain@gmail.com.</p>
 

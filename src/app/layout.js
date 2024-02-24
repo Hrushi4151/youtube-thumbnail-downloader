@@ -8,9 +8,9 @@ import "react-toastify/dist/ReactToastify.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "InstaSaver | Download Instagram Reels, Photo, Story - InstaSaver",
+  title: "Youtube Thumbnail Download | Download YouTube Thumbnails for Free",
   description:
-    "Instagram Downloader | Download Instagram Video, Photo, Story - InstaSaver",
+    "Youtube Thumbnail Download | Download YouTube Thumbnails for Free",
   icon: "/logo.jpg",
 };
 
@@ -18,8 +18,8 @@ export default function RootLayout({ children }) {
   let schemadata = {
     "@context": "https://schema.org/",
     "@type": "Website",
-    name: "InstaSvaer",
-    url: "https://insta-saver.vercel.app/",
+    name: "Youtube Thumbnail Download",
+    url: "https://www.youtube-thumbnail-download-er.vercel.app/",
   };
   return (
     <html lang="en">

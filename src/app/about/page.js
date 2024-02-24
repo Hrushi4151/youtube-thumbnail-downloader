@@ -17,7 +17,7 @@ const page = () => {
 
 <p class="mb-6">We value your time and strive to deliver a fast and efficient experience. Our user-friendly interface ensures a seamless process, allowing you to make the most of YouTube video thumbnails for your personal and professional projects.</p>
 
-<p class="mb-6">If you have any questions, feedback, or suggestions, we welcome your input. Please feel free to reach out to us via email at <a href="mailto:relnoorain@gmail.com" class="text-blue-500">relnoorain@gmail.com</a>. We appreciate your engagement and continuously work to improve our service based on user needs.</p>
+<p class="mb-6">If you have any questions, feedback, or suggestions, we welcome your input. Please feel free to reach out to us via email at <a href="mailto:instqsaver@gmail.com" class="text-blue-500">relnoorain@gmail.com</a>. We appreciate your engagement and continuously work to improve our service based on user needs.</p>
 
 <p class="mb-6">Please note that our service is intended for personal use only and should not be used for copyright infringement or any illegal activities. We respect intellectual property rights and encourage responsible and ethical use of downloaded YouTube video thumbnails.</p>
 
