@@ -11,7 +11,7 @@ const Footer = () => {
     <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
         <div class="sm:flex sm:items-center sm:justify-between">
             <a href="https://youtube-thumbnail-download-er.vercel.app/" class="flex md:justify-start justify-center items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
-                <img src="/logoinside.png" class="h-10" alt="Youtbe Thumbnail Download Logo" />
+                <img src="/logoinside.webp" class="h-10" alt="Youtbe Thumbnail Download Logo" />
                 <div class="flex flex-col self-center text-2xl font-semibold whitespace-nowrap text-white"><span className='text-sm'>YOUTUBE THUMBNAIL</span><span>DOWNLOAD</span></div>
             </a>
             <ul class="flex flex-wrap mb-6 text-sm font-medium sm:mb-0 text-gray-400 justify-center items-center">
