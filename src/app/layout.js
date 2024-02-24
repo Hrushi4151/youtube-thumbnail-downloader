@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Youtube Thumbnail Download | Download YouTube Thumbnails for Free",
+  title: "Youtube Thumbnail Download",
   description:
     "Youtube Thumbnail Download | Download YouTube Thumbnails for Free",
   icon: "/logo.jpg",
