@@ -186,7 +186,8 @@ export default function Home() {
         )}
         <div class="container mx-auto px-4 py-8">
 
-<h1 class="text-3xl font-bold mb-4">YouTube Thumbnail Downloader</h1>
+<h1 class="text-3xl font-bold mb-4">YouTube Thumbnail Downloader | Youtube Thumbnail Image
+</h1>
 
 <p class="mb-4">Save YouTube Video Thumbnails</p>
 <p class="mb-4">Get free thumbnail image of any YouTube videos in Full HD(1080), HD (720), SD, and also in small size. it's currently supported formats: YouTube (HD, HQ, 1080p, 4K) videos</p>
@@ -195,7 +196,7 @@ export default function Home() {
 <p class="mb-4">People use this YouTube thumbnail downloader website for getting thumbnail from any YouTube videos. That can be used in presentation, animation work or many other activities.</p>
 
 <h2 class="text-xl font-semibold mb-2">How to use this YouTube thumbnail downloader website?</h2>
-<p class="mb-4">I have shared some of screenshot in which i have guided you how you can use this YouTube downloader website. It's quite easy first step is you just copy any YouTube link whom thumbnail you want. youtube cover download Easily you can download you tube cover</p>
+<p class="mb-4">I have shared some of screenshot in which i have guided you how you can use this YouTube downloader website. It's quite easy first step is you just copy any YouTube link | Youtube video url whom thumbnail you want. youtube cover download Easily you can download you tube cover</p>
 <p class="mb-4">Now paste that URL in input box, the moment you paste that link it's automatically going to generate different size of thumbnails for you. Now click on thumbnail download button and it's going to automatically downloaded in your system. If you are using Android phone then you have to saved that images and if you are using iPhone then i don't know how you can do it?</p>
 
 <h2 class="text-xl font-semibold mb-2">Is it legal to download YouTube thumbnails?</h2>
