@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Youtube Thumbnail Download",
   description:
-    "Youtube Thumbnail Download | Download YouTube Thumbnails for Free",
+    "Youtube Thumbnail Download | Download YouTube Thumbnails for Free, Youtube Thumbnail Image",
   icon: "/logo.jpg",
 };
 
