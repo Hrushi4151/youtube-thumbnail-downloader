@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <link
         rel="icon"
-        href="/logo.jpg"
+        href="/logo.webp"
         type="image/<generated>"
         sizes="<generated>"
       />
