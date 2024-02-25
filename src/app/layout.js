@@ -37,6 +37,7 @@ export default function RootLayout({ children }) {
       "name" : "YouTube Thumbnail Download",
       "alternateName" : "EC",
       "url" : "https://youtube-thumbnail-download-er.vercel.app/",
+       description:"Youtube Thumbnail Download | Download YouTube Thumbnails for Free, Youtube Thumbnail Image",
       }
   </script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
