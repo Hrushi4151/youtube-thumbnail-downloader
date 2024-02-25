@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
     "@context": "https://schema.org/",
     "@type": "Website",
     name: "Youtube Thumbnail Download",
-    url: "https://www.youtube-thumbnail-download-er.vercel.app/",
+    url: "https://www.youtube-thumbnail-download-er.vercel.app",
   };
   return (
     <html lang="en">
