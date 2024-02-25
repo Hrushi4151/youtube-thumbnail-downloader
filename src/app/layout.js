@@ -32,12 +32,12 @@ export default function RootLayout({ children }) {
       <meta name="google-adsense-account" content="ca-pub-8683978034260199"></meta>
       <script type="application/ld+json">
     {
-      @context:"https://schema.org",
-      @type:"WebSite",
-      name:"YouTube Thumbnail Download",
-      alternateName:"YouTube Thumbnail Downloader",
-      url:"https://youtube-thumbnail-download-er.vercel.app/",
-      description:"Youtube Thumbnail Download | Download YouTube Thumbnails for Free, Youtube Thumbnail Image",
+      "@context":"https://schema.org",
+      "@type":"WebSite",
+      "name":"YouTube Thumbnail Download",
+      "alternateName":"YouTube Thumbnail Downloader",
+      "url":"https://youtube-thumbnail-download-er.vercel.app/",
+      "description":"Youtube Thumbnail Download | Download YouTube Thumbnails for Free, Youtube Thumbnail Image",
       }
   </script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
