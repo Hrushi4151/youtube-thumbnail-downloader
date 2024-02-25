@@ -4,12 +4,22 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState,useEffect } from "react";
 
 export default function Home() {
   const [url, seturl] = useState("");
   const [show, setShow] = useState(false);
   const [id, setid] = useState(null);
+  
+  useEffect(() => {
+    // Initialize Google Tag Manager dataLayer
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    // Replace 'G-VZQRFRCY3D' with your actual GTM container ID
+    gtag('config', 'G-VZQRFRCY3D');
+  }, []);
 
   const handlechange = (e) => {
     e.preventDefault();
