@@ -35,7 +35,6 @@ export default function RootLayout({ children }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemadata) }}/>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
      crossorigin="anonymous"></script>
-       <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZQRFRCY3D"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
