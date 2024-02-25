@@ -1,12 +1,21 @@
 'use client'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import React,{useState} from 'react'
+import React,{useState,useEffect} from 'react'
 
 const Navbar = () => {
 
     let location = usePathname();
     const [toogle, settoogle] = useState(true);
+     useEffect(() => {
+    // Initialize Google Tag Manager dataLayer
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    // Replace 'G-VZQRFRCY3D' with your actual GTM container ID
+    gtag('config', 'G-VZQRFRCY3D');
+  }, []);
   return (
     <div className=' sticky top-0 left-0 right-0'>
         
