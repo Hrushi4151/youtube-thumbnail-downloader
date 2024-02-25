@@ -30,16 +30,15 @@ export default function RootLayout({ children }) {
         sizes="<generated>"
       />
       <meta name="google-adsense-account" content="ca-pub-8683978034260199"></meta>
-      <script
-        type="application/ld+json"
-      >
-{
-    "@context": "https://schema.org/",
-    "@type": "Website",
-    name: "Youtube Thumbnail Download",
-    url: "https://www.youtube-thumbnail-download-er.vercel.app",
-  }
-          </script>
+      <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "YouTube Thumbnail Download",
+      "alternateName" : "EC",
+      "url" : "https://youtube-thumbnail-download-er.vercel.app/",
+      }
+  </script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683978034260199"
      crossorigin="anonymous"></script>
       <body className={inter.className}>
