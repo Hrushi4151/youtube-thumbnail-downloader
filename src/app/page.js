@@ -110,7 +110,7 @@ export default function Home() {
               💡💡{" "}
               <Link  to={"/how-to-download-youtube-thumbnail"}>
                 How Download Youtube Thumbnail
-              </a>
+              </Link>
             </div>
           </form>
         </div>
