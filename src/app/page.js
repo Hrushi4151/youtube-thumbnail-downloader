@@ -108,8 +108,8 @@ export default function Home() {
               role="alert"
             >
               💡💡{" "}
-              <a  target="_blank" href={"https://youtube-video-downloader51.vercel.app"}>
-                Download Youtbe Video
+              <Link  to={"/how-to-download-youtube-thumbnail"}>
+                How Download Youtube Thumbnail
               </a>
             </div>
           </form>
