@@ -108,7 +108,7 @@ export default function Home() {
               role="alert"
             >
               💡💡{" "}
-              <Link  to={"/how-to-download-youtube-thumbnail"}>
+              <Link  href={"/how-to-download-youtube-thumbnail"}>
                 How Download Youtube Thumbnail
               </Link>
             </div>
